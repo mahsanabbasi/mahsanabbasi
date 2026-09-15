@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Full Stack Developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+%26+Full+Stack+Developer;React+%7C+Tailwind+%7C+Firebase+%7C+Figma;Learning+Next.js+%26+TypeScript;CS+Student+at+FAST-NUCES+Karachi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+%26+Full+Stack+Developer;React+%7C+Tailwind+%7C+Figma;Learning+Next.js+%26+TypeScript;CS+Student+at+FAST-NUCES+Karachi" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahsanabbasi" target="_blank">
+  <a href="https://www.linkedin.com/in/ahsan-abbasi-0b9582331/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/ah_abbasi24" target="_blank">
+  <a href="https://www.instagram.com/ah_abbasi24/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:mahsan.abbasi@gmail.com">
@@ -24,13 +24,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahsanabbasi&theme=radical&no-frame=true&row=1&column=7" alt="mahsanabbasi trophies" />
-</p>
-
----
 
 ### 👨‍💻 About Me
 
@@ -42,13 +36,12 @@ currently_learning: [Next.js, TypeScript, Node.js/Express]
 looking_to_collaborate: React-based web apps
 looking_for_help_with: Next.js & TypeScript
 ask_me_about: [React, Tailwind CSS, Figma, Node/Express]
-fun_fact: "I tutor CS & Math while building apps on the side 😄"
 ```
 
 - 🌱 Currently learning **Next.js, TypeScript, Node.js/Express**
 - 👯 Looking to collaborate on **React-based web apps**
 - 🤝 Looking for help with **Next.js and TypeScript**
-- 💬 Ask me about **React, Tailwind CSS, Firebase, Figma, Node/Express**
+- 💬 Ask me about **React, Tailwind CSS, Figma, Node/Express**
 - 📫 Reach me at **mahsan.abbasi@gmail.com**
 - 👨‍💻 All my projects: **[github.com/mahsanabbasi](https://github.com/mahsanabbasi)**
 
@@ -64,18 +57,13 @@ fun_fact: "I tutor CS & Math while building apps on the side 😄"
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahsanabbasi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsanabbasi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahsanabbasi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahsanabbasi&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
+
 
 ---
 
@@ -85,7 +73,6 @@ fun_fact: "I tutor CS & Math while building apps on the side 😄"
   <img src="https://raw.githubusercontent.com/mahsanabbasi/mahsanabbasi/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
 </p>
 
-> ⚠️ The snake animation above only appears **after** you add the GitHub Action described in the setup steps below — it needs to run once to generate the image.
 
 ---
 
