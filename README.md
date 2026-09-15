@@ -1,82 +1,95 @@
-<body>
-  <div align="center">
-    <h1> Hi there, I'm Ahsan Abbasi👋</h1>
-  </div>
+<h1 align="center">Hi 👋, I'm Ahsan Abbasi</h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer from Pakistan</h3>
+
 <p align="center">
-<a href="https://github.com/mahsanabasi"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
-	
-<!-- ## My WordPress Course 
-- [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
- -->
-
-
- 
-<h2>Tech Stack</h2>
-
-<table width="100">
-<tr>
-    <!-- <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fopenai-chatgpt-logo-icon-free-png.webp?alt=media&token=7f1e7f67-d80a-4e04-9d39-c37007c3f547" >
-    </td>
-  <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fgoogle-ai-gemini91216.logowik.com.webp?alt=media&token=2e4ad51e-4dec-4382-927b-0c2fdf5faa46"  >
-    </td>
- <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fnextjs-icon-dark-background.png?alt=media&token=fe7213b5-5848-4391-b293-77118f3cb456">
-    </td> -->
- <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
-	  <td align='center' width= "200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
-    </td>
- 
-</tr> 
-<!-- <tr> -->
-    <!-- <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FMicrosoft-Azure-logo.jpg?alt=media&token=5d196928-848c-433b-b332-c91e7714ab74">
-    </td>
-    <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Faws.png?alt=media&token=e52f5663-5727-412e-8f03-03c7a3adc4fe">
-    </td>
- <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1_44fD_VXcqw2kDWublQLONw.jpg?alt=media&token=352d5775-d1a4-4809-b40b-168a05e8b553" >
-    </td>
-     <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FPinecone-Primary-Logo-White.png?alt=media&token=83a42d53-6832-4da8-b5ee-db7fb310b4a7">
-    </td>     	 -->
-    <!-- <td align='center'>
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
-    </td>
-</tr> -->
-
-<!-- <tr>
-	<td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fmain-qimg-28cadbd02699c25a88e5c78d73c7babc.webp?alt=media&token=e03aae20-c058-41a3-942b-162fdc622bd5">
-    </td>
-    <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1590522535032.png?alt=media&token=fb2cfe3b-0b15-48e6-8abd-1e1b0b8308f2">
-    </td>
- <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fimages.png?alt=media&token=b1a763bb-970f-4c95-8e6a-c014434f9d1e" >
-    </td>
-     <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1669196979547.png?alt=media&token=03966909-94db-47e0-9e07-b82dffd79ceb">
-    </td>    
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
-    </td>
-</tr> -->
- 
-
-    
-</table>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+%26+Full+Stack+Developer;React+%7C+Tailwind+%7C+Firebase+%7C+Figma;Learning+Next.js+%26+TypeScript;CS+Student+at+FAST-NUCES+Karachi" alt="Typing SVG" />
 </p>
 
- 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahsanabbasi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mahsanabbasi?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/ahsanabbasi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ah_abbasi24" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:mahsan.abbasi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahsanabbasi&theme=radical&no-frame=true&row=1&column=7" alt="mahsanabbasi trophies" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+```yaml
+name: Ahsan Abbasi
+role: Computer Science Student @ FAST-NUCES Karachi
+focus: Frontend & Full Stack Development
+currently_learning: [Next.js, TypeScript, Node.js/Express]
+looking_to_collaborate: React-based web apps
+looking_for_help_with: Next.js & TypeScript
+ask_me_about: [React, Tailwind CSS, Figma, Node/Express]
+fun_fact: "I tutor CS & Math while building apps on the side 😄"
+```
+
+- 🌱 Currently learning **Next.js, TypeScript, Node.js/Express**
+- 👯 Looking to collaborate on **React-based web apps**
+- 🤝 Looking for help with **Next.js and TypeScript**
+- 💬 Ask me about **React, Tailwind CSS, Firebase, Figma, Node/Express**
+- 📫 Reach me at **mahsan.abbasi@gmail.com**
+- 👨‍💻 All my projects: **[github.com/mahsanabbasi](https://github.com/mahsanabbasi)**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,mongodb,mysql,figma,git,cpp,c,bootstrap&perline=7" alt="tech stack" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahsanabbasi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsanabbasi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahsanabbasi&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahsanabbasi&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahsanabbasi/mahsanabbasi/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
+</p>
+
+> ⚠️ The snake animation above only appears **after** you add the GitHub Action described in the setup steps below — it needs to run once to generate the image.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/assets/pencil.gif" width="40" />
+  <b>Thanks for visiting my profile! Feel free to connect 🚀</b>
+</p>
