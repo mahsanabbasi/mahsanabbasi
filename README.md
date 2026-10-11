@@ -9,14 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=mahsanabbasi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mahsanabbasi?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ahsan-abbasi-0b9582331/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/ah_abbasi24/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+ 
   <a href="mailto:mahsan.abbasi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
